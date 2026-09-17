@@ -1,1 +1,17 @@
 SoM/production/backups/
+
+# KiCad Autosave/Backup/Lock-Dateien
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+#auto_saved_files#
+*.lck
+*~
+.history/
+SoM/SOM-backups/
+*.kicad_prl
+
+# Sonstige lokale Exporte
+SoM/production/*
+
+SoM/#auto_saved_files#
