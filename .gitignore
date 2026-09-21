@@ -15,3 +15,5 @@ SoM/SOM-backups/
 SoM/production/*
 
 SoM/#auto_saved_files#
+# Privates Tester-Baseboard, kommt spaeter als Submodul dazu
+/Baseboards/DualCardTester/
