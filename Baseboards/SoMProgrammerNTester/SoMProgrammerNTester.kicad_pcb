@@ -3372,7 +3372,7 @@
 			(uuid "b095e6d3-a39b-485a-b6cd-f7c2cfce9b67")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/CAS-D20TB.stp"
+		(model "${KIPRJMOD}/../../Library/3DModels/CAS-D20TB.stp"
 			(offset
 				(xyz -0.01999999925 0 2.499999962)
 			)
@@ -13420,7 +13420,7 @@
 			(uuid "783aa565-9cd8-44cc-b65f-9af976fffa6d")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/CAS-D20TB.stp"
+		(model "${KIPRJMOD}/../../Library/3DModels/CAS-D20TB.stp"
 			(offset
 				(xyz -0.01999999925 0 2.499999962)
 			)
@@ -28837,7 +28837,7 @@
 			(uuid "dca26a8f-0c7f-44f1-9ad3-5ef9d3ab4c4b")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/USB4110-GF-A.stp"
+		(model "${KIPRJMOD}/../../Library/3DModels/USB4110-GF-A.stp"
 			(offset
 				(xyz 0 2.5 0)
 			)
@@ -45340,7 +45340,7 @@
 			(uuid "61e803aa-20c5-4333-9712-fea80622e600")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/1473005-1.step"
+		(model "${KIPRJMOD}/../../Library/3DModels/1473005-1.step"
 			(offset
 				(xyz 0 -3.55 2.4)
 			)
@@ -45351,7 +45351,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/SOM.wrl"
+		(model "${KIPRJMOD}/../../Library/3DModels/SOM.wrl"
 			(offset
 				(xyz -0.3 -24.5 3.1)
 			)
@@ -55117,7 +55117,7 @@
 			(uuid "b3c30ad5-6112-4e9d-9510-f18c0a876cb2")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/CcSoM/Library/3DModels/TL3305AF160QG.stp"
+		(model "${KIPRJMOD}/../../Library/3DModels/TL3305AF160QG.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68215,7 +68215,7 @@
 			(uuid "8a5e4de7-14f4-4025-83fc-f30cf5455531")
 		)
 		(embedded_fonts no)
-		(model "/Users/fnitz/ccsom/Hardware/Library/3DModels/TPS3307-33DR.stp"
+		(model "${KIPRJMOD}/../../Library/3DModels/TPS3307-33DR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
