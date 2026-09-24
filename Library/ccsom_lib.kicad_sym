@@ -6730,7 +6730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ReadoutBoard_Footprints:CRYSTAL_TXC_7M"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm"
 			(at 2.54 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6742,7 +6742,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "7M-25.000MAAJ-T"
+		(property "Datasheet" ""
 			(at 3.81 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
