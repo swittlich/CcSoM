@@ -7348,7 +7348,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 7.62 -2.54 180)
 				(length 2.54)
 				(name "GND"
@@ -8459,7 +8459,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOP65P640X120-14N"
+		(property "Footprint" "ccsom_Footprint_lib:SOP65P640X120-14N"
 			(at 24.13 -94.92 0)
 			(show_name no)
 			(do_not_autoplace no)
